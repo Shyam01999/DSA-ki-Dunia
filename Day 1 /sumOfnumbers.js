@@ -6,4 +6,4 @@ for(let i = 1; i <= n; i++){
     sum += i;
 }
 
-console.log("Sum of numbers is:", sum);
+console.log("Sum of n numbers is:", sum);
